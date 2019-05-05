@@ -1,0 +1,14 @@
+{
+  "name": "wsm_rrg",
+  "version": "1.0.0",
+  "description": "web server minim per en Ramon Ros Gorne",
+  "main": "wsm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

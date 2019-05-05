@@ -1,0 +1,24 @@
+
+/* ENTRADA CSS       */
+/* versio 20190503.a */
+
+.baix {
+     background-color: red ;
+}
+
+.dalt {
+     background-color: green ;
+}
+
+p {
+     padding: 10px ;
+}
+
+body {
+     font-family: Verdana, Arial, sans-serif ;
+     color: white ;
+     text-align: justify ;
+     background-color: gray ;
+     border: 1px solid gray ;
+}
+
