@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 # executem amb "sudo ./entrada.py"
+# github.com/sebastianet/gpio_python_input.git
 
 import RPi.GPIO as GPIO                   # import GPIO library
 import time                               # import time library to have time.time()
